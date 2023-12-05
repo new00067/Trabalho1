@@ -1,0 +1,319 @@
+#cabeçalho{
+	width: 1440px;
+	height: 185px;
+	background-color: black;
+	display: flex;
+}
+#logo{
+	width: 120px;
+	height: 149px;
+	margin-left: 22px;
+	margin-top: 13px;
+}
+#textologo{
+	width: 307px;
+	height: 70px; 
+	margin-left: 23px;
+	margin-top: 92px;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+	text-align: center;
+	font-weight: 600;
+}
+#menu{
+	width: 72px;
+	height: 48px;
+	margin-left: 767px;
+	margin-top: 68px;
+}
+#pai1{
+	height: 778px;
+	width: 1440px;
+	display: flex;
+	flex-wrap: wrap;
+	font-family: sans-serif;
+}
+#bloco1{
+	width: 340px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-top: 39px;
+	margin-left: 13px;
+	display: flex;
+}
+#texto1{
+	width: 340px;
+	height: 203px;
+	margin-top: 50px;
+	font-size: 27px;
+	text-align: center;
+}
+#bloco2{
+	width: 340px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-top: 39px;
+	margin-left: 16px;
+	font-size: 27px;
+	text-align: center;
+}
+#bloco3{
+	width: 340px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-top: 39px;
+	margin-left: 16px;
+}
+#texto3{
+	width: 340px;
+	height: 280px;
+	margin-top: 38px;
+	font-size: 27px;
+}
+#bloco4{
+	width: 340px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-top: 39px;
+	margin-left: 16px;
+}
+#texto4{
+	width: 340px;
+	height: 276px;
+	margin-top: 44px;
+	font-size: 27px;
+	text-align: center;
+}
+#bloco5{
+	width: 696px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-left: 13px;
+}
+#bloco6{
+	width: 696px;
+	height: 342px;
+	background-color: #F9F9F9;
+	margin-left: 16px;
+}
+#texto6{
+	width: 696px;
+	height: 264px;
+	margin-top: 41px;
+	font-size: 27px;
+}
+#quadro1{
+	width: 340px;
+	height: 342px;
+	margin-top: 39px;
+	margin-left: 13px;
+	display: flex;
+}
+#quadro2{
+	width: 340px;
+	height: 342px;
+	margin-top: 39px;
+	margin-left: 16px;
+	display: flex;
+}
+#quadro3{
+	width: 340px;
+	height: 342px;
+	margin-top: 39px;
+	margin-left: 16px;
+	display: flex;
+}
+#quadro4{
+	width: 340px;
+	height: 342px;
+	margin-top: 39px;
+	margin-left: 16px;
+	display: flex;
+}
+#quadro5{
+	width: 340px;
+	height: 342px;
+	margin-left: 13px;
+	display: flex;
+}
+#quadro6{
+	width: 340px;
+	height: 342px;
+	margin-left: 16px;
+	display: flex;
+}
+#quadro7{
+	width: 340px;
+	height: 342px;
+	margin-left: 16px;
+	display: flex;
+}
+#quadro8{
+	width: 340px;
+	height: 342px;
+	margin-left: 16px;
+	display: flex;
+}
+#rodape{
+	width: 1440px;
+	height: 61px;
+	background-color: black;
+	display: flex;
+	font-family: sans-serif;
+}
+#nome{
+	width: 566px;
+	height: 43px;
+	margin-top: 9px;
+	margin-left: 24px;
+	color: #FFF;
+	font-size: 30px;
+}
+#ifms{
+	width: 328px;
+	height: 40px;
+	margin-top: 9px;
+	margin-left: 482px;
+	color: #FFF;
+	font-size: 29px;
+}
+@media (max-width: 393px){
+	
+#cabeçalho{
+	width: 393px;
+	height: 128px;
+}
+#logo{
+	width: 67px;
+	height: 85px;
+}
+#logoimg{
+	width: 67px;
+	height: 85px;
+}
+#textologo{
+	display: none;
+}
+#menu{
+	width: 40px;
+	height: 31.69px;
+	margin-left: 211px;
+}
+#menuimg{
+	width: 40px;
+	height: 31.69px;
+}
+#pai1{
+	width: 393px;
+	height: 812px;
+}
+#bloco1{
+	width: 174px;
+	height: 175px;
+}
+#texto1{
+	width: 173px;
+	height: 140px;
+	font-size: 15px;
+}
+#bloco2{
+	width: 174px;
+	height: 175px;
+	font-size: 15px;
+}
+#bloco3{
+	width: 174px;
+	height: 175px;
+}
+#texto3{
+	font-size: 15px;
+	width: 168px;
+	height: 128px;
+}
+#bloco4{
+	width: 174px;
+	height: 175px;
+}
+#texto4{
+	font-size: 15px;
+	width: 169px;
+	height: 129px;
+}
+#bloco5{
+	width: 370px;
+	height: 182px;
+}
+#bloco5img{
+	width: 370px;
+	height: 182px;
+}
+#bloco6{
+	width: 370px;
+	height: 182px;
+}
+#texto6{
+	font-size: 15px;
+	width: 348px;
+	height: 128px;
+	font-size: 12px;
+}
+#rodape{
+	width: 401px;
+	height: 61px;
+}
+#nome{
+	width: 168px;
+	height: 43px;
+	font-size: 10px;
+}
+#ifms{
+	font-size: 10px;
+	width: 79px;
+height: 28px;
+}
+#quadro1{
+	width: 183px;
+	height: 184px;
+}
+#quadro2{
+	width: 183px;
+	height: 184px;
+	margin-left: 10px;
+}
+#quadro3{
+	width: 183px;
+	height: 184px;
+	margin-top: 10px;
+}
+#quadro4{
+	width: 183px;
+	height: 184px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#quadro5{
+	width: 183px;
+	height: 184px;
+	margin-top: 10px;
+}
+#quadro6{
+	width: 183px;
+	height: 184px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#quadro7{
+	width: 183px;
+	height: 184px;
+	margin-top: 10px;
+}
+#quadro8{
+	width: 183px;
+	height: 184px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+	}
+
+
